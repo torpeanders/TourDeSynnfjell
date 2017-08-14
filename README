@@ -1,5 +1,6 @@
 * Fyll ut tider for K1/K2/K3 for de respektive klasser
 ** NB: Husk å korrigere for at de minste går kortere Dag 1
+   kmtid.py normaliserer til kilometertid for datakyndige
 
 * D1/D2/D2 gir resultater for de ulike dagene
 
